@@ -1,2 +1,2 @@
-# rittraial.github.io
+# rit.github.io
 workshop for github
